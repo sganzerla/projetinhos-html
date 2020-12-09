@@ -8,7 +8,7 @@
 
 ## View
 
-[image](./Peek%2008-12-2020%2016-07.gif)
+[image](Peek%2008-12-2020%2016-07.gif)
 
 ## Credits
 
