@@ -25,9 +25,11 @@
 <body>
 
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">fruta & fruto</a>
+                <a class="navbar-brand font-title color-title" href="#">
+                    Fruta & Fruto
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -44,7 +46,7 @@
                             <a class="nav-link" href="#">Quem somos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contato</a>
+                            <a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">Contato</a>
                         </li>
                     </ul>
                 </div>
@@ -92,7 +94,7 @@
             </article>
         </section>
 
-        <section class="container" id="cards">
+        <section class="container-fluid bg-light" id="cards">
             <div class="row justify-content-center">
                 <figure class="card color-border width-card p-0 m-4 col-12 col-md-4">
                     <img src="src/img/receita-abacate.jpg" class="card-img-top position-image-card"
@@ -161,11 +163,51 @@
                         <a href="#" class="btn color-button">Veja a receita</a>
                     </section>
                 </figure>
-                 
+
             </div>
         </section>
     </main>
-    <p>Contato:<a href="mailto:email@com.br">email@com.br</a></p>
+    <footer class="bg-secondary p-3">
+
+        <p class="text-light m-0 text-center">Contato: <a class="text-light" href="mailto:email@com.br">email@com.br</a></p>
+
+    </footer>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <dialog class="modal-content">
+                <header class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </header>
+                <main class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="nameInput">Name</label>
+                            <input type="text" class="form-control" id="nameInput" placeholder="Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="emailInput">Email address</label>
+                            <input type="email" class="form-control" id="emailInput" placeholder="name@example.com">
+                        </div>
+                        <div class="form-group">
+                            <label for="commentInput">Comment</label>
+                            <textarea class="form-control" id="commentInput" rows="3"></textarea>
+                        </div>
+                    </form>
+                </main>
+                <footer class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn color-button">Save changes</button>
+                </footer>
+            </dialog>
+        </div>
+    </div>
+
 </body>
 
 </html>

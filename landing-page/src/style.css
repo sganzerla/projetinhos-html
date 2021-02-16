@@ -9,7 +9,7 @@
 }
 
 .color-title {
-  color: darkred;
+  color: darkred !important;
 }
 
 .color-button {
