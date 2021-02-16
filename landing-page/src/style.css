@@ -20,3 +20,13 @@
 .color-border{
   border-color: darkred;
 }
+
+.position-image-card {
+  object-fit: cover; 
+  object-position: 0 80%;
+  height: 200px;
+}
+
+.width-card {
+  width: 18rem;
+}
