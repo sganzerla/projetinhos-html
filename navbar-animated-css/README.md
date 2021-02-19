@@ -1,6 +1,6 @@
 # :orange_book: navbar-animated-css
 
-[Back](../)
+[Back](https://github.com/sganzerla/projetinhos-html/)
 
 ## Feats
 
@@ -10,7 +10,7 @@
 
 ## View
 
-[image](gif.gif)
+![image](gif.gif)
 
 ## Credits
 
