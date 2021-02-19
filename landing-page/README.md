@@ -1,13 +1,15 @@
-# landing-page
+# :closed_book: landing-page
 
-    Criando landing pages com Bootstrap
+[Back](../../projetinhos-html/README.md)
 
-## Conteúdo
+Landing Pages with Bootstrap
+
+## Feat
 
 * Navbar
-* Carrossel
-* Fontes Google
-* Cards Imagens
-* Modal com formulário
+* Carousel
+* Font Google
+* Cards Image
+* Modal
 
 ![image](x.gif)

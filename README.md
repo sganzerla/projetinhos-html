@@ -1,7 +1,8 @@
 # projetinhos-html
 
-* [theme-toggler](theme-toggler-css/README.md)
-* [navbar-animated](navbar-animated-css/README.md)
-* [responsive-grid](responsive-grid-css/README.md)
-* [landing-page](responsive-grid-css/README.md)
-  
+  Projeto  |  Imagem/Vídeo
+:------------------------------: | :--------------------------------------------------------:
+[:blue_book: theme-toggler](theme-toggler-css/) | ![image](theme-toggler-css/Peek%2005-12-2020%2017-19.gif)
+[:orange_book: navbar-animated](navbar-animated-css/) | [image](navbar-animated-css/gif.gif)
+[:green_book: responsive-grid](responsive-grid-css/) | [image](responsive-grid-css/photo-gallery.gif)
+[:closed_book: landing-page](landing-page/) | [image](landing-page/README.md)
