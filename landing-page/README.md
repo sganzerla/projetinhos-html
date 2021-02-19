@@ -13,3 +13,7 @@ Landing Pages with Bootstrap
 * Modal
 
 ![image](gif.gif)
+
+## Credits
+
+[BOOTSTRAP 4: CRIANDO UMA LANDING PAGE RESPONSIVA](https://cursos.alura.com.br/course/bootstrap-landing-page/). Access 02/2021
