@@ -11,7 +11,7 @@
 
 ## View
 
-![image](./Peek%2005-12-2020%2017-19.gif)
+![image](./gif.gif)
 
 ## Credits
 

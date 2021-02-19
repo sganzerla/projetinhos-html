@@ -16,7 +16,7 @@
 
 ### Photo Gallery Grid
 
-![image](photo-gallery.gif)
+![image](gif.gif)
 
 ### Animated Grid
 

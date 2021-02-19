@@ -12,4 +12,4 @@ Landing Pages with Bootstrap
 * Cards Image
 * Modal
 
-![image](x.gif)
+![image](gif.gif)
