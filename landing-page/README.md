@@ -1,6 +1,6 @@
 # :closed_book: landing-page
 
-[Back](../../projetinhos-html/README.md)
+[Back](../)
 
 Landing Pages with Bootstrap
 
